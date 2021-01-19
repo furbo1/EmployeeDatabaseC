@@ -1,0 +1,11 @@
+C:\Users\Elev\employeeprogram\src\EmployeeDatabase\bin\Debug\netcoreapp3.1\EmployeeDatabase.exe
+C:\Users\Elev\employeeprogram\src\EmployeeDatabase\bin\Debug\netcoreapp3.1\EmployeeDatabase.deps.json
+C:\Users\Elev\employeeprogram\src\EmployeeDatabase\bin\Debug\netcoreapp3.1\EmployeeDatabase.runtimeconfig.json
+C:\Users\Elev\employeeprogram\src\EmployeeDatabase\bin\Debug\netcoreapp3.1\EmployeeDatabase.runtimeconfig.dev.json
+C:\Users\Elev\employeeprogram\src\EmployeeDatabase\bin\Debug\netcoreapp3.1\EmployeeDatabase.dll
+C:\Users\Elev\employeeprogram\src\EmployeeDatabase\bin\Debug\netcoreapp3.1\EmployeeDatabase.pdb
+C:\Users\Elev\employeeprogram\src\EmployeeDatabase\obj\Debug\netcoreapp3.1\EmployeeDatabase.csprojAssemblyReference.cache
+C:\Users\Elev\employeeprogram\src\EmployeeDatabase\obj\Debug\netcoreapp3.1\EmployeeDatabase.AssemblyInfoInputs.cache
+C:\Users\Elev\employeeprogram\src\EmployeeDatabase\obj\Debug\netcoreapp3.1\EmployeeDatabase.AssemblyInfo.cs
+C:\Users\Elev\employeeprogram\src\EmployeeDatabase\obj\Debug\netcoreapp3.1\EmployeeDatabase.dll
+C:\Users\Elev\employeeprogram\src\EmployeeDatabase\obj\Debug\netcoreapp3.1\EmployeeDatabase.pdb
