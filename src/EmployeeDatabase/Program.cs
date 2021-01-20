@@ -5,30 +5,25 @@ namespace EmployeeDatabase
 {
     class Program
     {
+        static Payroll payroll = new Payroll();
+
         static void Main(string[] args)
         {
+            SeedData();
 
-             string []  employees=  { "John", "Frank", "Jim", "JJ" };
-             var salaries = new []{5000, 6000, 7000, 8000};
+            Employee[] employees = payroll.GetEmployees();
 
-            if(employees.Length > 0) 
+            foreach (Employee employee in employees)
             {
-                foreach(string employee in employees)
-                {
-                     Console.WriteLine(employee);
-                   
-                }
-                foreach(int salary in salaries)
-                {
-                     Console.WriteLine(salary);
-                   
-                }
-                
-            } else {
-                 Console.WriteLine("There are no employees in database");
+                Console.WriteLine($"Name: {employee.Name} Salary: {employee.Salary}");
             }
-            
-           
+        }
+
+        private static void SeedData()
+        {
+            payroll.AddEmplyee("Kalle", 10000);
+            payroll.AddEmplyee("Anna", 20000);
+            payroll.AddEmplyee("Lisa", 30000);
         }
     }
 }
